@@ -4,11 +4,13 @@
     "slug": "coffee",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/coffee-shop.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/coffee.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "ImageBackground":"./assets/home.png",
+      "opacity":"0.3",
+      "width":40
     },
     "updates": {
       "fallbackToCacheTimeout": 0
